@@ -104,7 +104,7 @@ span,a{
  
 }
 .banner{
-     background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(/pictures/student-gf85735e35_1920.jpg);
+     background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(./pictures/student-gf85735e35_1920.jpg);
      background-attachment: fixed;
      height: 100vh;
      width: 100%;
@@ -212,7 +212,7 @@ span,a{
   }
 .hire-me{
 
-    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(/pictures/martin-shreder-5Xwaj9gaR0g-unsplash.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(./pictures/martin-shreder-5Xwaj9gaR0g-unsplash.jpg);
     background-attachment:fixed;
 
     
